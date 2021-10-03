@@ -1,5 +1,4 @@
 import React from 'react';
-import productData from './productData.json';
 import ProductListing from './components/ProductListing';
 import AdminView from './components/AdminView';
 import axios from 'axios';
@@ -32,12 +31,6 @@ class App extends React.Component {
   }
 
   addNewProduct = (productName, price, image) => {
-    /*let newProducts = [...this.state.products];
-    newProducts.push({
-      productName: productName,
-      price: price
-    });*/
-
     axios.post('http://localhost:4000/products/create', { productName, price, image })
     .then(response => this.setState({ products: response.data }))
     .catch(err => console.log(err));
@@ -48,8 +41,6 @@ class App extends React.Component {
     axios.delete('http://localhost:4000/products/' + productId + '/delete')
     .then(response => this.setState({ products: response.data }))
     .catch(err => console.log(err));
-
-    //this.setState({ products: this.state.products.filter(product => product.id !== productId) })
   };
 
 
