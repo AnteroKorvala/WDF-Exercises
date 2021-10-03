@@ -1,0 +1,29 @@
+.product {
+    display: flex;
+    width: 33.33%;
+    box-sizing: border-box;
+    padding-bottom: 30px;
+    justify-content: flex-start;
+    flex-flow: row wrap;
+}
+
+.productInfoItem {
+    display: flex;
+    flex-direction: column;
+     justify-content: flex-end;
+}
+
+.productName {
+    display: flex;
+    font-size: larger;
+}
+
+.imge {
+    display: flex;
+    max-width: 480px;
+    
+}
+
+.text {
+    vertical-align: bottom;
+}

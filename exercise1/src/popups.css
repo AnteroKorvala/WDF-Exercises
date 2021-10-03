@@ -1,0 +1,25 @@
+.diamonden {
+    color: white;
+    background-color: rgb(65,150,164);
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    
+    width: 55%;
+    height: 50px;
+    margin: auto;
+    margin-bottom: 5px;    
+}
+
+.advert {
+    color: white;
+    background-color: rgb(0,184,224);
+}
+
+.diamonden > div {
+    margin-left: 10px;
+}
+
+.allPops {
+    margin-top: 20px;
+}

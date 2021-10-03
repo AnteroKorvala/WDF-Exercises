@@ -1,0 +1,62 @@
+{
+    "products": [
+        {
+            "id": "1083e25e0-034f-4462-946d-85e7b3f1b769",
+            "productName": "48-pack of batteries",
+            "price": 14.99,
+            "pricePerCount": "$0.31",
+            "rating": 4.5,
+            "image": "https://m.media-amazon.com/images/I/71IdKRlm8+L._AC_SX425_.jpg"
+        },
+        {
+            "id": "b070b3e3-9421-41ae-acec-390ecad61190",
+            "productName": "36-pack of batteries",
+            "price": 10.99,
+            "pricePerCount": "$0.31",
+            "rating": 4.5,
+            "image": "https://m.media-amazon.com/images/I/71IdKRlm8+L._AC_SX425_.jpg" 
+        },
+        {
+            "id": "4890b631-7faa-4ce3-a893-c8bf5170b631",
+            "productName": "Apple 20W Power Adapter",
+            "price": 500,
+            "rating": 5,
+            "image": "https://m.media-amazon.com/images/I/41iWogJnZQL._AC_SX342_.jpg"
+        },
+        {
+            "id": "289d6fe9-9321-4f58-987c-e5e75ded15cb",
+            "productName": "Apple Earpods",
+            "price":  5000,
+            "rating": 4.5,
+            "image": "https://m.media-amazon.com/images/I/41wYbyr3LLL._AC_SX342_.jpg"
+        },
+        {
+            "id": "5e320620-bed2-4965-b38c-1b226990989a",
+            "productName": "Apple Pencil (2nd Gen)",
+            "price": 50000,
+            "rating": 5,
+            "image": "https://m.media-amazon.com/images/I/21bn7AjfSnS._SX466_.jpg"
+        },
+        {
+            "id": "e48cf8e4-041c-441e-9cef-523825cd9bf2",
+            "productName": "Glass Screen Protector",
+            "price": 7.98,
+            "rating": 4.5,
+            "image": "https://m.media-amazon.com/images/I/81MZ5D1wHpL._AC_SX522_.jpg"
+        },
+        {
+            "id": "7c266fe4-0bcb-49db-9e51-90648a44f38c",
+            "productName": "HP INK",
+            "price": 39.89,
+            "rating": 5,
+            "image": "https://m.media-amazon.com/images/I/71d8vo+TU7S._AC_SL1500_.jpg"
+        },
+        {
+            "id": "e2e5accf-a804-4aa0-81c1-66f07686fb67",
+            "productName": "WYZE Cam",
+            "price": 30.83,
+            "rating": 4.5,
+            "image": "https://m.media-amazon.com/images/I/61DJRLNgyWL._AC_SX355_.jpg"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+.productPlacement {
+    display: flex;
+    flex-wrap: wrap;
+}
